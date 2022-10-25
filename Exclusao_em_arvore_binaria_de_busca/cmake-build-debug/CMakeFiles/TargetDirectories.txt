@@ -1,0 +1,3 @@
+D:/Projetos/Estrutura de Dados/Exclusao_em_arvore_binaria_de_busca/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projetos/Estrutura de Dados/Exclusao_em_arvore_binaria_de_busca/cmake-build-debug/CMakeFiles/Exclusao_em_arvore_binaria_de_busca.dir
+D:/Projetos/Estrutura de Dados/Exclusao_em_arvore_binaria_de_busca/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Projetos/Estrutura de Dados/arvoreB/cmake-build-debug/CMakeFiles/arvoreB.dir
+D:/Projetos/Estrutura de Dados/arvoreB/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projetos/Estrutura de Dados/arvoreB/cmake-build-debug/CMakeFiles/rebuild_cache.dir

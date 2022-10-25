@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\archive.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\archive.dir/objects.a @CMakeFiles\archive.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\archive.dir/objects.a -Wl,--no-whole-archive  -o archive.exe -Wl,--out-implib,libarchive.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\archive.dir\linklibs.rsp

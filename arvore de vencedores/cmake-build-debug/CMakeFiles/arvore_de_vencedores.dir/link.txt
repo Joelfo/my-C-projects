@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\arvore_de_vencedores.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\arvore_de_vencedores.dir/objects.a @CMakeFiles\arvore_de_vencedores.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\arvore_de_vencedores.dir/objects.a -Wl,--no-whole-archive  -o arvore_de_vencedores.exe -Wl,--out-implib,libarvore_de_vencedores.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\arvore_de_vencedores.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Maior_Arvore_Binaria.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Maior_Arvore_Binaria.dir/objects.a @CMakeFiles\Maior_Arvore_Binaria.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Maior_Arvore_Binaria.dir/objects.a -Wl,--no-whole-archive  -o Maior_Arvore_Binaria.exe -Wl,--out-implib,libMaior_Arvore_Binaria.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Maior_Arvore_Binaria.dir\linklibs.rsp

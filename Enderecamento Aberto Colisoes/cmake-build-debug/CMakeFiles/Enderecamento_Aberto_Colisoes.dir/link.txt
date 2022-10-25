@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Enderecamento_Aberto_Colisoes.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Enderecamento_Aberto_Colisoes.dir/objects.a @CMakeFiles\Enderecamento_Aberto_Colisoes.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Enderecamento_Aberto_Colisoes.dir/objects.a -Wl,--no-whole-archive  -o Enderecamento_Aberto_Colisoes.exe -Wl,--out-implib,libEnderecamento_Aberto_Colisoes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Enderecamento_Aberto_Colisoes.dir\linklibs.rsp

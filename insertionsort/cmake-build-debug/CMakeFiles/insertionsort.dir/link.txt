@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\insertionsort.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\insertionsort.dir/objects.a @CMakeFiles\insertionsort.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\insertionsort.dir/objects.a -Wl,--no-whole-archive  -o insertionsort.exe -Wl,--out-implib,libinsertionsort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\insertionsort.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Espelho.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Espelho.dir/objects.a @CMakeFiles\Espelho.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Espelho.dir/objects.a -Wl,--no-whole-archive  -o Espelho.exe -Wl,--out-implib,libEspelho.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Espelho.dir\linklibs.rsp

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projetos/Estrutura de Dados/Encadeamento_Exterior_Em_Tabela_Hash/cliente.c
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+D:/Projetos/Estrutura de Dados/Encadeamento_Exterior_Em_Tabela_Hash/compartimento_hash.c
+string.h
+-
+stdlib.h
+-
+stdarg.h
+-
+stdio.h
+-
+
+D:/Projetos/Estrutura de Dados/Encadeamento_Exterior_Em_Tabela_Hash/main.c
+limits.h
+-
+stdio.h
+-
+cliente.c
+D:/Projetos/Estrutura de Dados/Encadeamento_Exterior_Em_Tabela_Hash/cliente.c
+compartimento_hash.c
+D:/Projetos/Estrutura de Dados/Encadeamento_Exterior_Em_Tabela_Hash/compartimento_hash.c
+

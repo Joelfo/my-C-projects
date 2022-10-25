@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projetos/Estrutura de Dados/intercalacao otima/cliente.c
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+D:/Projetos/Estrutura de Dados/intercalacao otima/main.c
+nomes.c
+D:/Projetos/Estrutura de Dados/intercalacao otima/nomes.c
+cliente.c
+D:/Projetos/Estrutura de Dados/intercalacao otima/cliente.c
+limits.h
+-
+dirent.h
+-
+string.h
+-
+
+D:/Projetos/Estrutura de Dados/intercalacao otima/nomes.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+

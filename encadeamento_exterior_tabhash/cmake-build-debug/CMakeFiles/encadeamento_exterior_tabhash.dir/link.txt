@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\encadeamento_exterior_tabhash.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\encadeamento_exterior_tabhash.dir/objects.a @CMakeFiles\encadeamento_exterior_tabhash.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\encadeamento_exterior_tabhash.dir/objects.a -Wl,--no-whole-archive  -o encadeamento_exterior_tabhash.exe -Wl,--out-implib,libencadeamento_exterior_tabhash.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\encadeamento_exterior_tabhash.dir\linklibs.rsp

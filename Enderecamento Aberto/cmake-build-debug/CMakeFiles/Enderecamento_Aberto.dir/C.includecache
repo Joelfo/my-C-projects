@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projetos/Estrutura de Dados/Enderecamento Aberto/cliente.c
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+D:/Projetos/Estrutura de Dados/Enderecamento Aberto/main.c
+stdio.h
+-
+limits.h
+-
+cliente.c
+D:/Projetos/Estrutura de Dados/Enderecamento Aberto/cliente.c
+

@@ -1,0 +1,6 @@
+10;Joao;
+30;Maria;
+50;Matheus;
+80;Karla;
+90;Mariana;
+99;Mirtes;

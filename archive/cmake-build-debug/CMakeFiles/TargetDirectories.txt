@@ -1,0 +1,3 @@
+D:/Projetos/Estrutura de Dados/archive/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Projetos/Estrutura de Dados/archive/cmake-build-debug/CMakeFiles/archive.dir
+D:/Projetos/Estrutura de Dados/archive/cmake-build-debug/CMakeFiles/edit_cache.dir

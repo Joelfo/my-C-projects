@@ -1,0 +1,3 @@
+D:/Projetos/Estrutura de Dados/arvore_zigue_zague/cmake-build-debug/CMakeFiles/arvore_zigue_zague.dir
+D:/Projetos/Estrutura de Dados/arvore_zigue_zague/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projetos/Estrutura de Dados/arvore_zigue_zague/cmake-build-debug/CMakeFiles/rebuild_cache.dir

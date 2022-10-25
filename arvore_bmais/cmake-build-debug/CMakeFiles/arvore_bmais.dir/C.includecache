@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projetos/Estrutura de Dados/arvore_bmais/cliente.c
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+D:/Projetos/Estrutura de Dados/arvore_bmais/main.c
+stdio.h
+-
+metadados.c
+D:/Projetos/Estrutura de Dados/arvore_bmais/metadados.c
+no_interno.c
+D:/Projetos/Estrutura de Dados/arvore_bmais/no_interno.c
+
+D:/Projetos/Estrutura de Dados/arvore_bmais/metadados.c
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+no_folha.c
+D:/Projetos/Estrutura de Dados/arvore_bmais/no_folha.c
+
+D:/Projetos/Estrutura de Dados/arvore_bmais/no_folha.c
+string.h
+-
+stdlib.h
+-
+stdarg.h
+-
+cliente.c
+D:/Projetos/Estrutura de Dados/arvore_bmais/cliente.c
+
+D:/Projetos/Estrutura de Dados/arvore_bmais/no_interno.c
+string.h
+-
+stdlib.h
+-
+stdarg.h
+-
+stdio.h
+-
+
